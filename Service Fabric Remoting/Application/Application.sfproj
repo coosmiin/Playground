@@ -32,6 +32,7 @@
     <Content Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\ActoreNetCore\ActoreNetCore.csproj" />
     <ProjectReference Include="..\ActorNetFramework\ActorNetFramework.csproj" />
     <ProjectReference Include="..\StatefulApi\StatefulApi.csproj" />
   </ItemGroup>

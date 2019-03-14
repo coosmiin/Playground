@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ActorNetFramework", "ActorN
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ActorNetFramework.Interfaces", "ActorNetFramework.Interfaces\ActorNetFramework.Interfaces.csproj", "{CF836F6B-7AE4-40B8-8936-CF74399E7F77}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ActoreNetCore", "ActoreNetCore\ActoreNetCore.csproj", "{12AA59E9-E101-49CF-A8D1-E5A4974BA343}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ActoreNetCore.Interfaces", "ActoreNetCore.Interfaces\ActoreNetCore.Interfaces.csproj", "{B17E7380-BFF9-44BB-ADCF-DAC272398F26}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -47,6 +51,22 @@ Global
 		{CF836F6B-7AE4-40B8-8936-CF74399E7F77}.Release|Any CPU.ActiveCfg = Release|x64
 		{CF836F6B-7AE4-40B8-8936-CF74399E7F77}.Release|x64.ActiveCfg = Release|x64
 		{CF836F6B-7AE4-40B8-8936-CF74399E7F77}.Release|x64.Build.0 = Release|x64
+		{12AA59E9-E101-49CF-A8D1-E5A4974BA343}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12AA59E9-E101-49CF-A8D1-E5A4974BA343}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12AA59E9-E101-49CF-A8D1-E5A4974BA343}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{12AA59E9-E101-49CF-A8D1-E5A4974BA343}.Debug|x64.Build.0 = Debug|Any CPU
+		{12AA59E9-E101-49CF-A8D1-E5A4974BA343}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12AA59E9-E101-49CF-A8D1-E5A4974BA343}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12AA59E9-E101-49CF-A8D1-E5A4974BA343}.Release|x64.ActiveCfg = Release|Any CPU
+		{12AA59E9-E101-49CF-A8D1-E5A4974BA343}.Release|x64.Build.0 = Release|Any CPU
+		{B17E7380-BFF9-44BB-ADCF-DAC272398F26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B17E7380-BFF9-44BB-ADCF-DAC272398F26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B17E7380-BFF9-44BB-ADCF-DAC272398F26}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{B17E7380-BFF9-44BB-ADCF-DAC272398F26}.Debug|x64.Build.0 = Debug|Any CPU
+		{B17E7380-BFF9-44BB-ADCF-DAC272398F26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B17E7380-BFF9-44BB-ADCF-DAC272398F26}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B17E7380-BFF9-44BB-ADCF-DAC272398F26}.Release|x64.ActiveCfg = Release|Any CPU
+		{B17E7380-BFF9-44BB-ADCF-DAC272398F26}.Release|x64.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

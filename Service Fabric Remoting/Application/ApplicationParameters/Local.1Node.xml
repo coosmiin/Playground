@@ -8,5 +8,8 @@
     <Parameter Name="ActorNetFrameworkActorService_PartitionCount" Value="1" />
     <Parameter Name="ActorNetFrameworkActorService_TargetReplicaSetSize" Value="1" />
     <Parameter Name="ActorNetFrameworkActorService_MinReplicaSetSize" Value="1" />
+    <Parameter Name="ActoreNetCoreActorService_PartitionCount" Value="1" />
+    <Parameter Name="ActoreNetCoreActorService_TargetReplicaSetSize" Value="1" />
+    <Parameter Name="ActoreNetCoreActorService_MinReplicaSetSize" Value="1" />
   </Parameters>
 </Application>
