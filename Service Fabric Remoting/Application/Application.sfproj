@@ -34,6 +34,7 @@
   <ItemGroup>
     <ProjectReference Include="..\ActoreNetCore\ActoreNetCore.csproj" />
     <ProjectReference Include="..\ActorNetFramework\ActorNetFramework.csproj" />
+    <ProjectReference Include="..\StatefulApiNetFramework\StatefulApiNetFramework.csproj" />
     <ProjectReference Include="..\StatefulApi\StatefulApi.csproj" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.Common.targets" />
